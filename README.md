@@ -52,7 +52,7 @@ A Python project to track attendance using facial recognition.
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SajjadCrafts&show_icons=true&count_private=true&hide_title=true&hide=prs&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ansari-Mohammed-Sajjad&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SajjadCrafts&layout=compact&theme=radical)
 ---
 
 ## 📫 Let's Connect
