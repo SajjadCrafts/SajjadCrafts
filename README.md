@@ -49,14 +49,15 @@ A Python project to track attendance using facial recognition.
 ---
 
 ## 📈 GitHub Stats
+
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ansari-Mohammed-Sajjad&show_icons=true&count_private=true&hide_title=true&hide=prs&theme=radical)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ansari-Mohammed-Sajjad&layout=compact&theme=radical)
 ---
 
 ## 📫 Let's Connect
-- LinkedIn: [Ansari Mohammed Sajjad](https://linkedin.com/in/Ansari-Mohammed-Sajjad)
-- Email: [ansari.sajjad@example.com](mailto:ansari.sajjad@example.com)
+- LinkedIn: [[Ansari Mohammed Sajjad](https://linkedin.com/in/Ansari-Mohammed-Sajjad)](https://www.linkedin.com/in/mohammed-sajjad-ansari-9b9b6b277/)
+- Email: [sajjad.mcs24@gmail.com](mailto:sajjad.mcs24@gmail.com)
 
 ---
 
