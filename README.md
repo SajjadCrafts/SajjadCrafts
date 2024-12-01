@@ -1,7 +1,7 @@
 # Hi there! 👋 I'm Ansari Mohammed Sajjad
 # Snake Game Activity Graph
 
-[Play Snake Game][(https://SajjadCrafts.github.io/SnakeGame)](https://<SajjadCrafts>.github.io/<rSnakeGame>/)
+[Play Snake Game][(https://SajjadCrafts.github.io/SnakeGame)]
 
 Welcome to my GitHub profile! I'm a passionate software developer working on exciting projects and exploring the latest technologies in web and app development.
 
