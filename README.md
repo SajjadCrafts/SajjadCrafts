@@ -2,8 +2,7 @@
 # Snake Game Activity Graph
 
 Check out my interactive Snake Game, where every GitHub contribution grows the snake!
-
-[Play Snake Game](https://YOUR_GITHUB_USERNAME.github.io/YOUR_REPOSITORY_NAME)
+Your site is published at https://<SajjadCrafts>.github.io/<Snake Game>/
 
 Welcome to my GitHub profile! I'm a passionate software developer working on exciting projects and exploring the latest technologies in web and app development.
 
